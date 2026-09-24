@@ -26,7 +26,7 @@
 | 屏幕适配 | 桌面居中缩放 | 锁定横屏、刘海安全区、沉浸式 |
 | 玩法 / 音乐 / 音效 | 一致 | 一致 |
 
-`Android/弹墨.apk` 是已签名的 release 安装包（versionName 1.2、versionCode 3，minSdk 23 / targetSdk 35）。
+`Android/弹墨.apk` 是已签名的 release 安装包（versionName 1.3、versionCode 4，minSdk 23 / targetSdk 35），已关闭 WebView 调试与应用调试。使用原签名覆盖安装即可升级并保留本地进度；旧版本 APK 的调试设置不会因仓库更新而自动改变。
 
 ## 音乐
 
